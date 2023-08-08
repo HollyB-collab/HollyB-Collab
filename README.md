@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Holly_Stefan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/holly-stefan-18687b113/)](https://www.linkedin.com/in/holly-stefan-18687b113/)
 [![Gmail Badge](https://img.shields.io/badge/-Holly_Stefan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hmbullis828@gmail.com)](mailto:hmbullis828@gmail.com)
+
+I'm a full stack web developer in a blossoming relationship with Typescript. I love systems that make sense, like SQL tables, Typescript types, and comprehensive tech specs. Software should be useful and make sense, that's why I strive to solve user problems and improve internal systems.
 <!--
 **HollyB-collab/HollyB-Collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
